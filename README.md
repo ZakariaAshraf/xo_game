@@ -10,8 +10,7 @@ This is a simple implementation of the classic Tic Tac Toe (Noughts and Crosses)
 - Simple ASCII representation of the game board
 
 ## Screenshots
-
-
+![Alt text](xo_game.gif)
 
 ## Getting Started
 
